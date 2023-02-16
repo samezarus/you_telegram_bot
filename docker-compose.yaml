@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+	you_bot:
+		container_name: you_bot
+		image: you_bot_parent  # Родительский образ
+		build:
+			context: ./  # Контекст Dockerfile-файла текущего расположения yaml-файл ( )
+			dockerfile: Dockerfile  # Файл для сборки родительского образа
+		restart: always
+		command: bash -c 'python ./main.py'

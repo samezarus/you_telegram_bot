@@ -1,0 +1,11 @@
+./venv
+./idea
+./.env
+./witelist.txt
+/.idea/.gitignore
+/.idea/gpt_telegram_bot.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml

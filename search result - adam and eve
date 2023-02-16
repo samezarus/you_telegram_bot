@@ -1,0 +1,221 @@
+youdotcom.Search.search_for(message='adam and eve')
+
+{
+    'results': {
+        'mainline': {
+            'third_party_related_results': [],
+            'third_party_places_results': [],
+            'third_party_search_results': [
+                {
+                    'name': 'Amazon.com: Adam & Eve',
+                    'url': 'https://www.amazon.com/stores/AdamEve/AdamEve/page/7D7739F7-893C-489B-A830-5701135F6D48',
+                    'displayUrl': 'https://www.\ue000amazon\ue001.com/stores/\ue000AdamEve\ue001/\ue000AdamEve\ue001/page/7D7739F7-893C-489B-A830-5701135F6D48',
+                    'snippet': 'Amazon.com: \ue000Adam & Eve\ue001',
+                    'dateLastCrawled': '2023-02-12T19:21:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': None,
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'Adam and Eve | Story, Meaning, & Facts | Britannica',
+                    'url': 'https://www.britannica.com/biography/Adam-and-Eve-biblical-literary-figures',
+                    'displayUrl': 'https://www.britannica.com/biography/\ue000Adam-and-Eve\ue001-biblical-literary-figures',
+                    'snippet': '\ue000Adam\ue001 and \ue000Eve\ue001, in the Judeo-Christian and Islamic traditions, the original human couple, parents of the human race. In the Bible there are two accounts of their creation. According to the Priestly (P) history of the 5th or 6th century bce (Genesis 1:1–2:4), God on the sixth day of Creation created all the living creatures and, “in his own image,” man both “male and female.” God then ...',
+                    'dateLastCrawled': '2023-02-13T21:04:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': 'https://www.bing.com/th?id=OIP.M6_qq0J9Hh0jRnTtXW-CUAHaKj&w=80&h=80&c=1&pid=5.1',
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'Adam and Eve - Wikipedia',
+                    'url': 'https://en.wikipedia.org/wiki/Adam_and_Eve',
+                    'displayUrl': 'https://en.wikipedia.org/wiki/\ue000Adam_and_Eve\ue001',
+                    'snippet': '\ue000Adam\ue001 and \ue000Eve\ue001 are the Bible\'s first man and first woman. \ue000Adam\ue001\'s name appears first in Genesis 1 with a collective sense, as "mankind"; subsequently in Genesis 2–3 it carries the definite article ha, equivalent to English "the", indicating that this is "the man". In these chapters God fashions "the man" (ha \ue000adam\ue001) from earth (adamah), breathes life into his nostrils, and makes him a caretaker ...',
+                    'dateLastCrawled': '2023-02-13T03:17:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': 'https://www.bing.com/th?id=OIP.OUyX_khkskfQ9a7xMuu6BgAAAA&w=80&h=80&c=1&pid=5.1',
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'Causes and consequences of Adam and Eve | Britannica',
+                    'url': 'https://www.britannica.com/summary/Adam-and-Eve-biblical-literary-figures',
+                    'displayUrl': 'https://www.britannica.com/summary/\ue000Adam-and-Eve\ue001-biblical-literary-figures',
+                    'snippet': '\ue000Adam\ue001 and \ue000Eve\ue001. \ue000Adam\ue001 and \ue000Eve\ue001, In the Judeo-Christian and Islamic traditions, the parents of the human race. Genesis gives two versions of their creation. In the first, God creates “male and female in his own image” on the sixth day. In the second, \ue000Adam\ue001 is placed in the Garden of Eden, and \ue000Eve\ue001 is later created from his rib to ease his loneliness.',
+                    'dateLastCrawled': '2023-02-12T16:13:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': None,
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'The Story of Adam and Eve in the Bible - Chabad.org',
+                    'url': 'https://www.chabad.org/library/article_cdo/aid/246606/jewish/The-Story-of-Adam-and-Eve-in-the-Bible.htm',
+                    'displayUrl': 'https://www.chabad.org/library/article_cdo/aid/246606',
+                    'snippet': "The Story of \ue000Adam\ue001's Creation. Adam1 was the first human in existence, created by G‑d on the sixth day of Creation. The Bible describes him as being created in the image of G‑d, and his wisdom is said to have surpassed that of the Heavenly angels.2 To create \ue000Adam\ue001, G‑d moistened the earth with mist, formed a body from the dust, and breathed life into the figure.",
+                    'dateLastCrawled': '2023-02-13T12:17:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': 'https://www.bing.com/th?id=OIP.C2zsWfYrucGg-BIgPmhzLgHaD3&w=80&h=80&c=1&pid=5.1',
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'About Us | Adam & Eve Stores Franchise',
+                    'url': 'https://www.adamandevefranchise.com/why-adam-eve/about-us/',
+                    'displayUrl': 'https://www.\ue000adamandeve\ue001franchise.com/why-\ue000adam\ue001-\ue000eve\ue001/\ue000about-us\ue001',
+                    'snippet': '\ue000Adam\ue001 & \ue000Eve\ue001 is the leading marketer of sex-positive materials in the United States. Our stores sell only top-quality merchandise and maintain the highest standards in all areas of operations. The \ue000Adam\ue001 & \ue000Eve\ue001 retail stores is the leader in the lingerie and adult boutique market. We are proud of our franchise owners and the commitment that they ...',
+                    'dateLastCrawled': '2023-02-13T20:19:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': None,
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'Adam and Eve | Answers in Genesis',
+                    'url': 'https://answersingenesis.org/adam-and-eve/',
+                    'displayUrl': 'https://answersingenesis.org/\ue000adam-and-eve\ue001',
+                    'snippet': 'According to Scripture, \ue000Adam\ue001 and \ue000Eve\ue001 were the first human beings on the planet. In Genesis, we are told God “formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.” (Genesis 2:7). This man, called \ue000Adam\ue001, was the first human being.',
+                    'dateLastCrawled': '2023-02-13T01:14:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': None,
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                },
+                {
+                    'name': 'GENESIS 2:4-3:24 NIV - Adam and Eve - Bible Gateway',
+                    'url': 'https://www.biblegateway.com/passage/?search=GENESIS%202%3A4-3%3A24&version=NIV',
+                    'displayUrl': 'https://www.biblegateway.com/passage/?search=GENESIS 2:4-3:24&version=NIV',
+                    'snippet': '\ue000Adam\ue001 and \ue000Eve\ue001 - This is the account of the heavens and the earth when they were created, when the LORD God made the earth and the heavens. Now no shrub had yet appeared on the earth and no plant had yet sprung up, for the LORD God had not sent rain on the earth and there was no one to work the ground, but streams came up from the earth and watered the whole surface of the ground. Then the LORD ...',
+                    'dateLastCrawled': '2023-02-13T08:03:00.0000000Z',
+                    'datePublished': None,
+                    'language': 'en',
+                    'thumbnailUrl': None,
+                    'isFamilyFriendly': True,
+                    'isNavigational': False,
+                    'deepLinks': None
+                }
+            ],
+            'third_party_image_results': [],
+            'third_party_video_results': [],
+            'third_party_news_results': [],
+            'third_party_computation_results': {},
+            'third_party_translations_results': {},
+            'third_party_timezone_results': {},
+            'third_party_entity_results': [],
+            'rankings': {
+                'pole': None,
+                'mainline': [
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 0,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.0'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 1,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.1'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 2,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.2'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 3,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.3'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 4,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.4'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 5,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.5'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 6,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.6'}
+                    },
+                    {
+                        'answerType': 'WebPages',
+                        'resultIndex': 7,
+                        'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.7'}
+                    }
+                ],
+                'sidebar': None
+            },
+            'estimated_matches': 3410000,
+            'query_context': {'originalQuery': 'adam and eve'},
+            'third_party_market': 'en-US',
+            'third_party_web_results_source': 100
+        },
+        'sidebar': [],
+        'rankings': {
+            'pole': None,
+            'mainline': [
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 0,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.0'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 1,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.1'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 2,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.2'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 3,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.3'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 4,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.4'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 5,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.5'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 6,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.6'}
+                },
+                {
+                'answerType': 'WebPages',
+                'resultIndex': 7,
+                'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.7'}
+                }
+            ],
+            'sidebar': None
+        }
+    },
+    'time': '01'
+}
